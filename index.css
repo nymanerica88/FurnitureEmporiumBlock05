@@ -1,0 +1,58 @@
+h1{
+    color:rgb(255, 255, 255);
+    font-size: 40px;
+    font-style: italic;
+    font-variant: small-caps;
+    padding: 5px;
+    padding-left: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(86, 0, 112);
+}
+
+.SectionDescription{
+    font-size: 28px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    margin-top: -20px;
+    margin-bottom: 1px;
+    }
+
+.FurnitureType{
+    color: #ffffff;
+    font-size: 25px;
+    font-style: italic;
+    font-variant: small-caps;
+    margin-bottom: -15px;
+    padding: 5px;
+    padding-left: 10;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(225, 0, 255);
+}
+
+.ProductDescription{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(247, 186, 252);
+    padding: 10px;
+    font-size: 16px;
+}
+
+.Price{
+    color: aliceblue;
+    padding: 2px;
+    padding-left: 10px;
+    
+    font-weight: bold;
+    margin-top: -20px;
+    margin-bottom: 10px;
+    background-color: rgb(94, 93, 93);
+}
+
+.Checkout{
+    color: yellow;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    margin-top: -30px;
+    background-color: black;
+}
